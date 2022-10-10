@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://tilwaninikhil.github.io/csb-v1mrxb/static/css/main.c41ee3b4.chunk.css",
+    "main.js": "https://tilwaninikhil.github.io/csb-v1mrxb/static/js/main.2acf92c2.chunk.js",
+    "main.js.map": "https://tilwaninikhil.github.io/csb-v1mrxb/static/js/main.2acf92c2.chunk.js.map",
+    "runtime-main.js": "https://tilwaninikhil.github.io/csb-v1mrxb/static/js/runtime-main.61449521.js",
+    "runtime-main.js.map": "https://tilwaninikhil.github.io/csb-v1mrxb/static/js/runtime-main.61449521.js.map",
+    "static/js/2.d500e239.chunk.js": "https://tilwaninikhil.github.io/csb-v1mrxb/static/js/2.d500e239.chunk.js",
+    "static/js/2.d500e239.chunk.js.map": "https://tilwaninikhil.github.io/csb-v1mrxb/static/js/2.d500e239.chunk.js.map",
+    "index.html": "https://tilwaninikhil.github.io/csb-v1mrxb/index.html",
+    "precache-manifest.b507460d1830c84e341e0193c2c62bd5.js": "https://tilwaninikhil.github.io/csb-v1mrxb/precache-manifest.b507460d1830c84e341e0193c2c62bd5.js",
+    "service-worker.js": "https://tilwaninikhil.github.io/csb-v1mrxb/service-worker.js",
+    "static/css/main.c41ee3b4.chunk.css.map": "https://tilwaninikhil.github.io/csb-v1mrxb/static/css/main.c41ee3b4.chunk.css.map",
+    "static/js/2.d500e239.chunk.js.LICENSE.txt": "https://tilwaninikhil.github.io/csb-v1mrxb/static/js/2.d500e239.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61449521.js",
+    "static/js/2.d500e239.chunk.js",
+    "static/css/main.c41ee3b4.chunk.css",
+    "static/js/main.2acf92c2.chunk.js"
+  ]
+}
